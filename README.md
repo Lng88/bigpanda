@@ -1,4 +1,4 @@
-# bigpanda
+# BigPanda
 Bigpanda takehome built with Node Express server. Express server listening on port 3000, which will serve a static HTML file. Provide a location key to the form input on HTML. Form submit will trigger a post call to /api/locationKey endpoint and grab API gzip data from Accuweather. If successful, data will be posted with JSON payload to BigPanda alerts API. 
 
 ## Installation
